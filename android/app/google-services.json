@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106973451391",
+    "project_id": "aladhan-4ab28",
+    "storage_bucket": "aladhan-4ab28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106973451391:android:813aad13257368117e1b4a",
+        "android_client_info": {
+          "package_name": "com.exemple.aladhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbrV0V77ydL_aA-JRdsmWtNE3Qe7eccMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBbR5hqBUkcI79tlA7ONb7UOQ4QjH3Y90c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>106973451391</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.exemple.aladhan</string>
+	<key>PROJECT_ID</key>
+	<string>aladhan-4ab28</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aladhan-4ab28.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:106973451391:ios:79aed86f60c2fabc7e1b4a</string>
+</dict>
+</plist>
